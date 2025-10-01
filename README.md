@@ -31,8 +31,7 @@ Each section includes:
 
 ✅ Bangla explanations
 ✅ Code examples
-✅ written tutorials (if available)
-✅ Exercises with guidance
+
 
 ### Who Is This For?
 
