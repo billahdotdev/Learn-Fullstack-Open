@@ -3,7 +3,7 @@
 This repository provides Bangla tutorials, explanations, and resources for the Fullstack Open
  course by the University of Helsinki.
 
-🎯 Goal: Make Fullstack development accessible to Bangla-speaking learners by translating and explaining concepts from the Fullstack Open course in a clear and practical way.
+## Goal: Make Fullstack development accessible to Bangla-speaking learners by translating and explaining concepts from the Fullstack Open course in a clear and practical way.
 
 🚀 What’s Covered?
 
