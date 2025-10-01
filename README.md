@@ -42,7 +42,7 @@ Anyone struggling to understand Fullstack concepts in English
 
 Self-learners looking for a guided path in their native language
 
-📂 Structure
+## 📂 Structure
 
 The repo is organized following the course parts:
 
