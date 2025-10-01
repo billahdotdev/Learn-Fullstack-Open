@@ -34,7 +34,7 @@ Each section includes:
 ✅ Video or written tutorials (if available)
 ✅ Exercises with guidance
 
-🧑‍🏫 Who Is This For?
+### Who Is This For?
 
 Bangla-speaking students and developers
 
