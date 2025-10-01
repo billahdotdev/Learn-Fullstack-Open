@@ -46,10 +46,10 @@ Self-learners looking for a guided path in their native language
 
 The repo is organized following the course parts:
 
-part0-introduction/
-part1-react-basics/
-part2-communicating-with-server/
-...
+     part0-introduction/
+     part1-react-basics/
+     part2-communicating-with-server/
+     ...
 
 
 Each part includes:
