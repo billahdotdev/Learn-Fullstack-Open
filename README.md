@@ -60,10 +60,10 @@ code/ – Code examples
 
 resources/ – Extra links or videos (if any)
 
-## Contributions
+### Contributions
 
 If you’re fluent in both Bangla and Fullstack concepts, feel free to contribute! Open an issue or submit a pull request.
 
-⭐ Star the Repo
+### ⭐ Star the Repo
 
 If this helps you or others, give the repo a ⭐ to support the project!
