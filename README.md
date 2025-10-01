@@ -5,7 +5,7 @@ This repository provides Bangla tutorials, explanations, and resources for the F
 
 ## Goal: Make Fullstack development accessible to Bangla-speaking learners by translating and explaining concepts from the Fullstack Open course in a clear and practical way.
 
-🚀 What’s Covered?
+## What’s Covered?
 
 We follow the original Fullstack Open curriculum and cover topics such as:
 
