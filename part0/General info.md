@@ -143,5 +143,5 @@ Discord: Course Community
 
 Student Services Email: avoin-student@helsinki.fi
 
-আপনি যদি এই কোর্স শুরু করতে চান, তাহলে শুধু [কোর্স সাইটে] (https://fullstackopen.com/en/)
+আপনি যদি এই কোর্স শুরু করতে চান, তাহলে কোর্স সাইটে https://fullstackopen.com/en/
 যান, এবং Part 0 থেকে পড়া শুরু করুন।
