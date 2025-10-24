@@ -1,4 +1,4 @@
-# Learn-Fullstack-Open (Bangla)
+# Learn-Fullstack-Open (Bangla)  
 
 This repository provides Bangla tutorials, explanations, and resources for the Fullstack Open
  course by the University of Helsinki.
